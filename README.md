@@ -26,3 +26,8 @@ Observed the change in number of voted users over decades using a bar chart. Cre
 Task: Find the critic-favorite and audience-favorite actors
 
 
+Overview: This project explores a movie dataset, cleans the data, and conducts various analyses to uncover interesting insights about movies, actors, and ratings. It delves into aspects such as the highest-grossing movies, IMDb’s top 250 movies, and favorite actors among critics and audiences
+
+Scope & Purpose: The analysis focuses on movies released between 2000 and 2019
+
+Methods: The project employs Python for data cleaning, preprocessing, and exploratory data analysis. Various libraries, including pandas, numpy, seaborn, and matplotlib, are used to extract meaningful information from the dataset
